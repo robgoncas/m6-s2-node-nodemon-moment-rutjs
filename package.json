@@ -1,0 +1,21 @@
+{
+  "name": "m6s2-nodejs-npm",
+  "version": "1.0.0",
+  "description": "instalando paquetes a través de npm, rutjs y moment js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validar",
+    "rut",
+    "formatear",
+    "fechas"
+  ],
+  "author": "R. G.",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "rutjs": "^0.1.1"
+  }
+}
